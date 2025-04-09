@@ -1,0 +1,7 @@
+requests==2.28.2
+beautifulsoup4==4.12.2
+pandas==2.0.0
+tqdm==4.65.0
+transformers==4.27.4
+torch==2.0.0
+selenium==4.9.0 
